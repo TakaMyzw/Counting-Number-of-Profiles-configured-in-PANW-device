@@ -16,7 +16,9 @@ How to use this script:
 2. Place the XML file to your computer
 3. Run this script. The first parameter is the filename
 
+```
 $ count_num_of_profiles.py filename
+```
 
 Output format:
 ```
